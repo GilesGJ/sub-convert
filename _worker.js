@@ -2269,6 +2269,10 @@ function _r(e) {
     }), n),
     [
       {
+        label: "Giles_Online 默认版 分组比较全 (与Github同步)",
+        value: "https://raw.githubusercontent.com/GilesGJ/ACL4SSR/refs/heads/master/Clash/config/Giles.ini"
+      },
+      {
         label: "ACL4SSR_Online 默认版 分组比较全 (与Github同步)",
         value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini"
       },
